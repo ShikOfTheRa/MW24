@@ -578,7 +578,7 @@
 
   /*****************                DFRobot LED RING    *********************************/
     /* I2C DFRobot LED RING communication */
-    #define LED_RING
+    //#define LED_RING
 
   /********************************    LED FLASHER    ***********************************/
     //#define LED_FLASHER
