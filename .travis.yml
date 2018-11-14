@@ -7,7 +7,7 @@ cache:
   directories:
   - "~/.platformio"
 env:
-- PLATFORMIO_CI_SRC=MW24/
+- PLATFORMIO_CI_SRC=FC/
 install:
 - pip install -U platformio
 script:
